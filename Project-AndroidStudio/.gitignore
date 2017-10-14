@@ -2,7 +2,8 @@
 .gradle
 local.properties
 .idea
-magicfilter/src/main/objs
+magicfilter/src/main/obj
+magicfilter/src/main/libs
 .DS_Store
 build
 captures
